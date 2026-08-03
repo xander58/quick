@@ -1,0 +1,16 @@
+Цитаты для режима печати: data/quotes-ru.json (120 отрывков)
+
+Источник: репозиторий RusLit (https://github.com/d0rj/RusLit).
+Авторы: Чехов, Толстой, Тургенев, Достоевский, Гоголь, Горький, Пушкин, Герцен —
+все умерли более 70 лет назад, произведения не защищены авторским правом
+(общественное достояние).
+
+Составитель корпуса RusLit собрал тексты из открытых источников:
+LitLib (litlib.net), Wikisource (wikisource.org), Ilibrary (ilibrary.ru).
+Лицензия RusLit: "All works contained in this repository are in the public
+domain. Anyone is free to copy, modify, publish, use, sell, or distribute
+for any purpose, commercial or non-commercial, and by any means."
+
+Отрывки нарезаны автоматически по границам предложений скриптом
+scripts/extract_quotes.py — см. инструкцию в самом скрипте, как пополнить
+корпус другими авторами или произведениями.
